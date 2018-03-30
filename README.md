@@ -1,3 +1,3 @@
-# Udemy-WebDev
+# Reaction Time
 
-Small projects from Web Developer course in Udemy
+Tests reaction time of player. Game built using JavaScript
